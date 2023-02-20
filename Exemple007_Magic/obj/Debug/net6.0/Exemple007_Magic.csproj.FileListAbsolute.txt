@@ -1,0 +1,15 @@
+C:\Users\Анастасия\Desktop\LessonC#\vers_2_Lesson_Lekc\Example\Exemple007_Magic\bin\Debug\net6.0\Exemple007_Magic.exe
+C:\Users\Анастасия\Desktop\LessonC#\vers_2_Lesson_Lekc\Example\Exemple007_Magic\bin\Debug\net6.0\Exemple007_Magic.deps.json
+C:\Users\Анастасия\Desktop\LessonC#\vers_2_Lesson_Lekc\Example\Exemple007_Magic\bin\Debug\net6.0\Exemple007_Magic.runtimeconfig.json
+C:\Users\Анастасия\Desktop\LessonC#\vers_2_Lesson_Lekc\Example\Exemple007_Magic\bin\Debug\net6.0\Exemple007_Magic.dll
+C:\Users\Анастасия\Desktop\LessonC#\vers_2_Lesson_Lekc\Example\Exemple007_Magic\bin\Debug\net6.0\Exemple007_Magic.pdb
+C:\Users\Анастасия\Desktop\LessonC#\vers_2_Lesson_Lekc\Example\Exemple007_Magic\obj\Debug\net6.0\Exemple007_Magic.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\LessonC#\vers_2_Lesson_Lekc\Example\Exemple007_Magic\obj\Debug\net6.0\Exemple007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\Desktop\LessonC#\vers_2_Lesson_Lekc\Example\Exemple007_Magic\obj\Debug\net6.0\Exemple007_Magic.AssemblyInfoInputs.cache
+C:\Users\Анастасия\Desktop\LessonC#\vers_2_Lesson_Lekc\Example\Exemple007_Magic\obj\Debug\net6.0\Exemple007_Magic.AssemblyInfo.cs
+C:\Users\Анастасия\Desktop\LessonC#\vers_2_Lesson_Lekc\Example\Exemple007_Magic\obj\Debug\net6.0\Exemple007_Magic.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\LessonC#\vers_2_Lesson_Lekc\Example\Exemple007_Magic\obj\Debug\net6.0\Exemple007_Magic.dll
+C:\Users\Анастасия\Desktop\LessonC#\vers_2_Lesson_Lekc\Example\Exemple007_Magic\obj\Debug\net6.0\refint\Exemple007_Magic.dll
+C:\Users\Анастасия\Desktop\LessonC#\vers_2_Lesson_Lekc\Example\Exemple007_Magic\obj\Debug\net6.0\Exemple007_Magic.pdb
+C:\Users\Анастасия\Desktop\LessonC#\vers_2_Lesson_Lekc\Example\Exemple007_Magic\obj\Debug\net6.0\Exemple007_Magic.genruntimeconfig.cache
+C:\Users\Анастасия\Desktop\LessonC#\vers_2_Lesson_Lekc\Example\Exemple007_Magic\obj\Debug\net6.0\ref\Exemple007_Magic.dll
