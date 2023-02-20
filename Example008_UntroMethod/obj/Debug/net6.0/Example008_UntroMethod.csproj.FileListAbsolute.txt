@@ -1,0 +1,15 @@
+C:\Users\Анастасия\Desktop\LessonC#\vers_2_Lesson_Lekc\Example\Example008_UntroMethod\bin\Debug\net6.0\Example008_UntroMethod.exe
+C:\Users\Анастасия\Desktop\LessonC#\vers_2_Lesson_Lekc\Example\Example008_UntroMethod\bin\Debug\net6.0\Example008_UntroMethod.deps.json
+C:\Users\Анастасия\Desktop\LessonC#\vers_2_Lesson_Lekc\Example\Example008_UntroMethod\bin\Debug\net6.0\Example008_UntroMethod.runtimeconfig.json
+C:\Users\Анастасия\Desktop\LessonC#\vers_2_Lesson_Lekc\Example\Example008_UntroMethod\bin\Debug\net6.0\Example008_UntroMethod.dll
+C:\Users\Анастасия\Desktop\LessonC#\vers_2_Lesson_Lekc\Example\Example008_UntroMethod\bin\Debug\net6.0\Example008_UntroMethod.pdb
+C:\Users\Анастасия\Desktop\LessonC#\vers_2_Lesson_Lekc\Example\Example008_UntroMethod\obj\Debug\net6.0\Example008_UntroMethod.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\LessonC#\vers_2_Lesson_Lekc\Example\Example008_UntroMethod\obj\Debug\net6.0\Example008_UntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\Desktop\LessonC#\vers_2_Lesson_Lekc\Example\Example008_UntroMethod\obj\Debug\net6.0\Example008_UntroMethod.AssemblyInfoInputs.cache
+C:\Users\Анастасия\Desktop\LessonC#\vers_2_Lesson_Lekc\Example\Example008_UntroMethod\obj\Debug\net6.0\Example008_UntroMethod.AssemblyInfo.cs
+C:\Users\Анастасия\Desktop\LessonC#\vers_2_Lesson_Lekc\Example\Example008_UntroMethod\obj\Debug\net6.0\Example008_UntroMethod.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\LessonC#\vers_2_Lesson_Lekc\Example\Example008_UntroMethod\obj\Debug\net6.0\Example008_UntroMethod.dll
+C:\Users\Анастасия\Desktop\LessonC#\vers_2_Lesson_Lekc\Example\Example008_UntroMethod\obj\Debug\net6.0\refint\Example008_UntroMethod.dll
+C:\Users\Анастасия\Desktop\LessonC#\vers_2_Lesson_Lekc\Example\Example008_UntroMethod\obj\Debug\net6.0\Example008_UntroMethod.pdb
+C:\Users\Анастасия\Desktop\LessonC#\vers_2_Lesson_Lekc\Example\Example008_UntroMethod\obj\Debug\net6.0\Example008_UntroMethod.genruntimeconfig.cache
+C:\Users\Анастасия\Desktop\LessonC#\vers_2_Lesson_Lekc\Example\Example008_UntroMethod\obj\Debug\net6.0\ref\Example008_UntroMethod.dll
